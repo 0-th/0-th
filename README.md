@@ -35,6 +35,68 @@
 
 # Coding Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C785%20hrs%2042%20mins-blue?style=for-the-badge)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2047%20mins-blue?style=for-the-badge)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
+
+**🐱 My GitHub Data** 
+
+> 📦 14.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 26 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 62 Public Repositories 
+ > 
+> 🔑 27 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                931 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+🌆 Daytime                1567 commits        ████████░░░░░░░░░░░░░░░░░   31.26 % 
+🌃 Evening                1337 commits        ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+🌙 Night                  1178 commits        ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   414 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Tuesday                  287 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Wednesday                1493 commits        ███████░░░░░░░░░░░░░░░░░░   29.78 % 
+Thursday                 1202 commits        ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+Friday                   734 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Saturday                 522 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Sunday                   361 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+Markdown                 29 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Neovim                   29 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    29 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 12/10/2026 16:23:02 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect with Me
