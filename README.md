@@ -1,6 +1,3 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIxdjFpYWV4eGJpdHpramFobnl4dnhkenhzcGxvdjIwbGtvdGRtbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif" alt="Luffy smiling">
 </p>
