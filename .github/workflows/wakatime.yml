@@ -17,7 +17,6 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
-          BAR_STYLE: "svg"
           BAR_COLOR: "#90CAF9"
           BAR_TRACK_COLOR: "#172f45"
           BAR_RADIUS: "4"
