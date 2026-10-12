@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Handjet&size=30&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+Hi+there.+I'm+Collins" alt="Hi there. I'm Collins">
 </p>
 
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Backend%20Engineer-blue?style=flat-square" height="27" alt="Role">
@@ -19,7 +18,6 @@
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
 - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
----
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
@@ -35,10 +33,9 @@
 	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
     - 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚏𝚛𝚘𝚗𝚝𝚒𝚎𝚛 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑 𝚒𝚗 𝙲𝚂
 
----
+# Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
----
 
 ## 📫 Connect with Me
 
