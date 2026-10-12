@@ -9,12 +9,12 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Backend%20Engineer-blue?style=flat-square" alt="Role">
-  <img src="https://img.shields.io/badge/Focus-Python%20%7C%20Golang%20%7C%20Distributed%20Systems-orange?style=flat-square" alt="Focus">
+  <img src="https://img.shields.io/badge/Role-Backend%20Engineer-blue?style=flat-square" height="27" alt="Role">
+  <img src="https://img.shields.io/badge/Focus-Python%20%7C%20Golang%20%7C%20Distributed%20Systems-orange?style=flat-square" height="27" alt="Focus">
 </p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝚂𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜-𝚍𝚛𝚒𝚟𝚎𝚗 𝚂𝚆𝙴 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
+- 🖥 𝚂𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜-𝚍𝚛𝚒𝚟𝚎𝚗 𝚂𝚆𝙴
 - 💜 [𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/protocol) 𝚊𝚝 [Protocol Labs <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Protocol_Labs_black.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="50em" align="center" alt="Protocol Labs Logo" title="Protocol labs logo"/>](https://pl.xyz/)
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
 - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
