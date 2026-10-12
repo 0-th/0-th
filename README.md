@@ -14,7 +14,7 @@
 </p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
+- 🖥 𝚂𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜-𝚍𝚛𝚒𝚟𝚎𝚗 𝚂𝚆𝙴 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
 - 💜 [𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/protocol) 𝚊𝚝 [Protocol Labs <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Protocol_Labs_black.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="50em" align="center" alt="Protocol Labs Logo" title="Protocol labs logo"/>](https://pl.xyz/)
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
 - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
@@ -33,7 +33,7 @@
 
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
-    - 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚏𝚛𝚘𝚗𝚝𝚒𝚎𝚛 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑
+    - 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚏𝚛𝚘𝚗𝚝𝚒𝚎𝚛 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑 𝚒𝚗 𝙲𝚂
 
 ---
 <!--START_SECTION:waka-->
