@@ -2,11 +2,11 @@
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIxdjFpYWV4eGJpdHpramFobnl4dnhkenhzcGxvdjIwbGtvdGRtbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif" alt=" Luffy smiling"" alt="Focus">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIxdjFpYWV4eGJpdHpramFobnl4dnhkenhzcGxvdjIwbGtvdGRtbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif" alt="Luffy smiling">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Handjet&size=30&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+Hi+there.+I'm+Collins" alt=" Luffy smiling"" alt="Focus">
+  <img src="https://readme-typing-svg.demolab.com?font=Handjet&size=30&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+Hi+there.+I'm+Collins" alt="Hi there. I'm Collins">
 </p>
 
 ---
@@ -36,7 +36,7 @@
 
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
 	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
-    - Contribute to frontier research
+    - 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚏𝚛𝚘𝚗𝚝𝚒𝚎𝚛 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑
 
 ---
 <!--START_SECTION:waka-->
