@@ -1,45 +1,82 @@
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C785%20hrs%2042%20mins-blue?style=flat)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIxdjFpYWV4eGJpdHpramFobnl4dnhkenhzcGxvdjIwbGtvdGRtbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif" alt="Luffy smiling">
-</p>
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2047%20mins-blue?style=flat)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Handjet&size=30&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+Hi+there.+I'm+Collins" alt="Hi there. I'm Collins">
-</p>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
----
+**🐱 My GitHub Data** 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Backend%20Engineer-blue?style=flat-square" alt="Role">
-  <img src="https://img.shields.io/badge/Focus-Python%20%7C%20Golang%20%7C%20Distributed%20Systems-orange?style=flat-square" alt="Focus">
-</p>
+> 📦 14.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 62 Public Repositories 
+ > 
+> 🔑 27 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
-- 💜 [𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/protocol) 𝚊𝚝 [Protocol Labs <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Protocol_Labs_black.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="50em" align="center" alt="Protocol Labs Logo" title="Protocol labs logo"/>](https://pl.xyz/)
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+```text
+🌞 Morning                931 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+🌆 Daytime                1561 commits        ████████░░░░░░░░░░░░░░░░░   31.18 % 
+🌃 Evening                1337 commits        ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+🌙 Night                  1178 commits        ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+```
+📅 **I'm Most Productive on Wednesday** 
 
----
-
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-```yaml
-- Building an informal savings app for the unbanked population
-- Reading Designing Data-Intensive Applications by Martin Kleppmann
-- Learning Rust and System Design
-- Watching one piece
-- Job hunting
+```text
+Monday                   408 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Tuesday                  287 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Wednesday                1493 commits        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+Thursday                 1202 commits        ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+Friday                   734 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Saturday                 522 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Sunday                   361 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 ```
 
-- 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
-    - 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚏𝚛𝚘𝚗𝚝𝚒𝚎𝚛 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑
 
----
-<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Lagos
+
+💬 Programming Languages: 
+Markdown                 29 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Neovim                   29 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    29 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   34 repos            ████████████░░░░░░░░░░░░░   47.89 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+HCL                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/0-th/0-th/main/assets/bar_graph.png)
+
+
+ Last Updated on 12/10/2026 14:06:14 UTC
 <!--END_SECTION:waka-->
 ---
 
