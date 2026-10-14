@@ -35,9 +35,9 @@
 
 # Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C788%20hrs%2010%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C790%20hrs%2012%20mins-blue?style=for-the-badge)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2047%20mins-blue?style=for-the-badge)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2045%20mins-blue?style=for-the-badge)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
 
@@ -80,24 +80,45 @@ Sunday                   361 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Markdown                 2 hrs 25 mins       ████████████████████░░░░░   82.00 % 
-YAML                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Markdown                 3 hrs 15 mins       ████████████████░░░░░░░░░   65.21 % 
+Python                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Go                       27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Docker                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 57 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 24 mins       █████████████████░░░░░░░░   68.35 % 
+Obsidian                 49 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Antigravity CLI          44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 58 mins (19.51%)
+
+✍️ 440 lines written by AI, 249 lines written by hand (63.86% AI-written)
+
+🔤 11,862,354 Input Tokens, 882,680 Output Tokens
+
+💵 $34.27 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Gemini                   440 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 63.86% of written lines came from AI
+📝 Concise Prompter — average 94 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 49.19% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 23:02:34 UTC
+ Last Updated on 14/10/2026 21:53:53 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect with Me
