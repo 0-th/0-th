@@ -35,7 +35,7 @@
 
 # Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C810%20hrs%2015%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C810%20hrs%2032%20mins-blue?style=for-the-badge)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%203%20mins-blue?style=for-the-badge)
 
@@ -80,17 +80,16 @@ Sunday                   361 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Go                       7 hrs 10 mins       ███████████████████████░░   92.48 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Go                       6 hrs 44 mins       ███████████████████████░░   91.75 % 
+Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 21 mins       ████████████████████████░   94.74 % 
-Obsidian                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Neovim                   6 hrs 44 mins       ███████████████████████░░   91.76 % 
+Obsidian                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
 
 💻 Operating System: 
-Linux                    7 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +99,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/10/2026 22:31:17 UTC
+ Last Updated on 28/10/2026 22:48:09 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Connect with Me
